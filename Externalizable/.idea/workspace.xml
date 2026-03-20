@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51911da2-b42b-49b1-ac45-1bc6362cd9a5" name="Changes" comment="" />
+    <list default="true" id="0c2e8fa8-091a-45b1-9005-bcccd23ba4d7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,23 +17,8 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "vihangamanusha"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vihangamanusha/Advance_programming.git",
-    "accountId": "9588ed25-0579-4adc-b859-49ebc2975fed"
-  }
-}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="3BBx4BLPThR9LetTAEoqWvb0ZnE" />
   <component name="ProjectViewState">
@@ -42,11 +27,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Main.executor": "Run",
+    "Application.ExternlizableDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "vihanga",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/vihan/OneDrive/Desktop/AdvanceProgramming/Externalizable",
     "node.js.detected.package.eslint": "true",
@@ -54,7 +36,6 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/vihan/OneDrive/Desktop/AdvanceProgramming/Serilization/Advance_programming/Externalizable/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,12 +50,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="51911da2-b42b-49b1-ac45-1bc6362cd9a5" name="Changes" comment="" />
-      <created>1773976072886</created>
+      <changelist id="0c2e8fa8-091a-45b1-9005-bcccd23ba4d7" name="Changes" comment="" />
+      <created>1773976438747</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1773976072886</updated>
-      <workItem from="1773976073730" duration="361000" />
+      <updated>1773976438747</updated>
+      <workItem from="1773976439930" duration="4953000" />
     </task>
     <servers />
   </component>
