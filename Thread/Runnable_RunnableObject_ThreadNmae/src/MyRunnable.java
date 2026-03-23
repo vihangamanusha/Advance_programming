@@ -1,6 +1,8 @@
 public class MyRunnable implements Runnable {
     public void run() {
-        System.out.println("MyRunnable.run");
+        for (int i = 0; i < 5; i++) {
+            System.out.println(Thread.currentThread().getName() + " " + i);
+        }
     }
 
 
