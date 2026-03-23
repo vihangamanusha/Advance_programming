@@ -3,9 +3,7 @@ public class ThreadDemo {
         MyThread myThread = new MyThread();
         myThread.start();
 
-       for (int i = 0; i < 5; i++) {
-           System.out.println("Main thread :"+i);
-       }
+        myThread.join();
 
     }
 }
