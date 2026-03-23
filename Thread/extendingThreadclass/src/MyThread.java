@@ -1,5 +1,9 @@
 public class MyThread extends Thread {
     public void run() {
-        System.out.println("Thread is running");
+        for (int i = 0; i < 5; i++) {
+            System.out.println("child thread :"+i);
+            Thread.yield();
+        }
+
     }
 }
