@@ -1,10 +1,10 @@
 public class MyTimer implements Runnable {
     @Override
     public void run() {
-        this.printDeNumbers();
         this.printNumbers();
+        this.printDeNumbers();
 
-
+        
     }
 
     public synchronized void  printNumbers(){
