@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="3b41a83e-af40-4a92-83e8-72aac5934d61" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/SIngletonDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="bd2d8f0f-d5c8-48a3-8168-8e11cfbab83f" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -36,10 +41,32 @@
   "associatedIndex": 2
 }]]></component>
   <component name="ProjectId" id="3BRlWSTmmDn4pVCG6UAhNAOHnTz" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vihangamanusha&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vihangamanusha/Advance_programming.git&quot;,
+    &quot;accountId&quot;: &quot;9588ed25-0579-4adc-b859-49ebc2975fed&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3BS2BK4DgeE46TzHYnO3upld3Q6" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.SIngletonDemo.executor": "Run",
@@ -56,6 +83,18 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+>>>>>>> Stashed changes
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,12 +106,22 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="3b41a83e-af40-4a92-83e8-72aac5934d61" name="Changes" comment="" />
       <created>1774459800661</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774459800661</updated>
       <workItem from="1774459802577" duration="381000" />
+=======
+      <changelist id="bd2d8f0f-d5c8-48a3-8168-8e11cfbab83f" name="Changes" comment="" />
+      <created>1774468015946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774468015946</updated>
+      <workItem from="1774468017684" duration="40000" />
+      <workItem from="1774468097427" duration="43000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
