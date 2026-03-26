@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a92065ee-b162-49b9-b7e7-8153f7930ef3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaptopDVD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaptopSSD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Decorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LaptopDVD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LaptopSSD.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1774539675360</updated>
-      <workItem from="1774539676504" duration="3869000" />
+      <workItem from="1774539676504" duration="5856000" />
     </task>
     <servers />
   </component>
