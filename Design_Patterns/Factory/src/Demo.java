@@ -13,7 +13,9 @@ public class Demo {
         System.out.println(m4.hashCode());
 
         MyDBConnection_5 m5=MyDBConnection_5.getInstance();
-        System.out.println(m5.hashCode());
+        MyDBConnection_5 m6=MyDBConnection_5.getInstance();
+
+        System.out.println(m5==m6);
 
     }
 }

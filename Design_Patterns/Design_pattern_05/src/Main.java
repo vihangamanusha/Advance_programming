@@ -12,8 +12,9 @@ public class Main {
         System.out.println(mydb3.hashCode());
         System.out.println(mydb4.hashCode());
 
-        MyDBConnection_5 mydb5=MyDBConnection_5.getInstance();
-        System.out.println(mydb5.hashCode());
+        MyDBConnection_5 m5=MyDBConnection_5.getInstance();
+        MyDBConnection_5 m6=MyDBConnection_5.getInstance();
 
+        System.out.println(m5==m6);
     }
 }
