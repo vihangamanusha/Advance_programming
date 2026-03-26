@@ -1,3 +1,5 @@
+package ex1;
+
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
 
