@@ -1,7 +1,6 @@
 package RMI;
 
-import java.rmi.Remote;
-import java.rmi.RemoteException;
+import java.rmi.*;
 
 public interface Hello extends Remote {
     public String printHello() throws RemoteException;
