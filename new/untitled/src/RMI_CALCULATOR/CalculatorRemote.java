@@ -24,11 +24,11 @@ public class CalculatorRemote extends UnicastRemoteObject implements Calculator 
     }
 
     @Override
-    public int division(int a, int b){
-        if(b==0){
+    public int division(int a, int b) throws RemoteException {
+        if (b == 0) {
+            System.out.println("Server: division by zero blocked");
             return 0;
-        }else {
-            return a/b;
         }
+        return a / b;
     }
 }
