@@ -12,6 +12,7 @@ public class MyDeserializer {
             System.out.println(student.getId());
             System.out.println(student.getName());
             System.out.println(student.getAge());
+            System.out.println(student.getPassword());
             ois.close();
             fis.close();
 
