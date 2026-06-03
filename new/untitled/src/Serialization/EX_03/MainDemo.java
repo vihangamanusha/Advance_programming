@@ -1,5 +1,4 @@
 package Serialization.EX_03;
 
-public class MySerializer {
-
+public class MainDemo {
 }
