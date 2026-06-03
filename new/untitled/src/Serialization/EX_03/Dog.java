@@ -18,6 +18,6 @@ public class Dog extends Animal {
 
     @Override
     public String toString() {
-        return "Dog [color=" + color + "weight="+getWeight() +" ";
+        return "Dog [color= "  + color + " weight= "+getWeight() +" ]";
     }
 }
