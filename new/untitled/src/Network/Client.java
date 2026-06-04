@@ -3,10 +3,10 @@ package Network;
 import java.io.DataOutputStream;
 import java.net.Socket;
 
-public class Client {
-    public static void main(String[] args) {
+public class Client{
+    public static void main(String[] args) throws Exception{
         try{
-            Socket s = new Socket("localhost", 1234);
+            Socket s=new Socket("localhost",1234);
             DataOutputStream dos=new DataOutputStream(s.getOutputStream());
             dos.writeUTF("Hello World");
             dos.flush();
