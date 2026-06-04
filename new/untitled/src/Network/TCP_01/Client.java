@@ -1,4 +1,4 @@
-package Network;
+package Network.TCP_01;
 
 import java.io.DataOutputStream;
 import java.net.Socket;
