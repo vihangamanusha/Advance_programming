@@ -4,7 +4,7 @@ public class Vehical {
     private String color;
 
     public Vehical(){}
-    
+
     public Vehical(String color) {
         this.color = color;
     }
