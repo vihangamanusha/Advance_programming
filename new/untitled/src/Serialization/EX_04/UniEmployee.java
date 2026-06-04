@@ -17,4 +17,13 @@ public class UniEmployee extends Employee implements Serializable {
     public void setUniId(int uniId) {
         this.uniId = uniId;
     }
+
+    @Override
+    public String toString() {
+        return "UniEmployee " +
+                "[uniId=" + uniId +
+                " uniname=" + getName() +
+                " age=" + getAge() +
+                "]";
+    }
 }
