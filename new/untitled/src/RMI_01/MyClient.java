@@ -1,7 +1,6 @@
 package RMI_01;
 
 import java.rmi.Naming;
-import java.rmi.RemoteException;
 
 public class MyClient {
     public static void main(String args[]) {
