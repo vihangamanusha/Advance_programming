@@ -13,6 +13,7 @@ public class Server {
             DataInputStream dis=new DataInputStream(s.getInputStream());
             String str=(String)dis.readUTF();
             System.out.println(str);
+            dis.close();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
