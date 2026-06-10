@@ -1,7 +1,9 @@
 package Observer.observer;
 
+import Observer.Ex.Student;
+
 public interface Mysubject {
-    void registerObserver(MyObserver observer);
+    void registerObserver(Student observer);
 
     void removeObserver(MyObserver observer);
 

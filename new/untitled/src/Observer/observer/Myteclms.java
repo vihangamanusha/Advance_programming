@@ -1,5 +1,7 @@
 package Observer.observer;
 
+import Observer.Ex.Student;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -10,7 +12,7 @@ public class Myteclms implements Mysubject {
     private String msg;
 
     @Override
-    public void registerObserver(MyObserver observer) {
+    public void registerObserver(Student observer) {
         students.add(observer);
     }
 
@@ -22,7 +24,7 @@ public class Myteclms implements Mysubject {
     @Override
     public void notifyObservers() {
         for (MyObserver student : students) {
-            student.update(msg);
+            student.update(temp, msg);
         }
     }
 

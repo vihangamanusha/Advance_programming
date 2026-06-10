@@ -8,7 +8,7 @@ public class Student implements MyObserver {
     }
 
     @Override
-    public void update(String msg) {
+    public void update(int temp, String msg) {
         System.out.println("i am student: "+name + msg);
     }
 }

@@ -8,9 +8,9 @@ public class FlxibleDemo {
         Student stu2=new Student("amal");
         Student stu3=new Student("kasun");
 
-        lms.registerObserver(stu1);
+        /*lms.registerObserver(stu1);
         lms.registerObserver(stu2);
-        lms.registerObserver(stu3);
+        lms.registerObserver(stu3);*/
 
         lms.sendMessage();
     }
