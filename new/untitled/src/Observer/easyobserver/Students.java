@@ -13,7 +13,10 @@ public class Students implements Observer {
     @Override
     public void update(Observable o, Object arg) {
         if(o instanceof Teclms){
-            System.out.println("i am student "+name+" i goto this msg "+arg);
+            System.out.println("Student Name: "+name+" i got this message: "+arg);
         }
+
     }
+
+
 }
