@@ -1,4 +1,4 @@
-package RMI_CALCULATOR;
+package RMI.RMI_01.RMI_CALCULATOR;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
